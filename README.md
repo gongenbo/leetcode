@@ -3,6 +3,7 @@
 
 - [剑指 Offer 题解](codinginterviews/README.md)
 - [Leetcode 题解](leetcode/README.md)
+- [其他面试题题解](code/README.md)
 
 ## 参考
 - [CS-Notes](https://github.com/CyC2018/CS-Notes)
