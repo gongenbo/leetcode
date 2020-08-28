@@ -5,7 +5,24 @@
 - [牛客网](https://www.nowcoder.com/ta/coding-interviews?from=cyc_github)
 - [Leetcode](https://leetcode-cn.com/problemset/lcof/)
 
-# 数组
+# 常用数据结构
+## 数组、字符串
+## 链表
+## 栈
+## 队列
+## 双端队列
+## 树
+
+# 高级数据结构
+## 优先队列
+## 图
+## 前缀树
+## 线段树
+## 树状数组
+
+# 排序
+
+# 递归与回溯
 
 
 | NO.|Title|Dificiui|Tag|Time complexity|Space complexity|Solution|company|
@@ -15,4 +32,10 @@
 |67| [二进制求和](67.%20实现strStr().md)
 |206|[反转链表](206.%20反转链表.md)|Easy|||||
 
-# 数组
+# 深度优先广度优先
+
+# 动态规划
+## 一维动态规划
+## 二维动态规划
+
+# 二分搜索与贪婪

@@ -1,9 +1,10 @@
-# leetcode
-## 算法
+# LeetCode
+## Category
 
-- [剑指 Offer 题解](codinginterviews/README.md)
-- [Leetcode 题解](leetcode/README.md)
-- [其他面试题题解](code/README.md)
+- [剑指 Offer](codinginterviews/README.md)
+- [LeetCode](leetcode/README.md)
+- [Others](code/README.md)
 
-## 参考
+## Reference
 - [CS-Notes](https://github.com/CyC2018/CS-Notes)
+- [300分钟搞定数据结构与算法 苏勇](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=3#/detail/pc?id=28)
