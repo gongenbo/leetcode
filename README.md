@@ -66,7 +66,6 @@ leetcode、剑指offer、公司面试刷题集
 
 **4. Leetcode Hard**
 
-- [leetcode 4：]()
 - [leetcode 128: 最长连续序列](<https://leetcode-cn.com/problems/longest-consecutive-sequence/>) 
 
 
@@ -218,17 +217,14 @@ leetcode、剑指offer、公司面试刷题集
 
 **2. Leetcode Easy**
 
-| [leetcode 704: 二分查找](<https://leetcode-cn.com/problems/binary-search/>) |      |      |
-| ------------------------------------------------------------ | ---- | ---- |
-|                                                              |      |      |
+- [leetcode 704: 二分查找](<https://leetcode-cn.com/problems/binary-search/>) &nbsp;1
+
+**2. Leetcode Hard**
+- [4. 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) &nbsp;滴滴&nbsp;1
 
 
 
-
-
-
-
-## 回溯法
+## 递归与回溯法
 
 **1. 剑指offer**
 
