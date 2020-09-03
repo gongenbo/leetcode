@@ -12,15 +12,19 @@ leetcode、剑指offer、公司面试刷题集
 
 **2. Leetcode Easy**
 
-| [leetcode 206: 反转链表](<https://leetcode-cn.com/problems/reverse-linked-list/>) | [leetcode 160: 链表相交](<https://leetcode-cn.com/problems/intersection-of-two-linked-lists/>) | [leetcode 21: 排序链表的合并](<https://leetcode-cn.com/problems/merge-two-sorted-lists/>) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [leetcode 234: 回文链表](<https://leetcode-cn.com/problems/palindrome-linked-list/>) | [leetcode 237: 删除链表中的节点](<https://leetcode-cn.com/problems/delete-node-in-a-linked-list/>) | [leetcode 83: 删除排序链表中重复的节点](<https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/>) |
-| [leetcode 203: 移除链表元素](<https://leetcode-cn.com/problems/remove-linked-list-elements/submissions/>) |                                                              |                                                              |
+- [leetcode 206: 反转链表](<https://leetcode-cn.com/problems/reverse-linked-list/>) 
+- [leetcode 160: 链表相交](<https://leetcode-cn.com/problems/intersection-of-two-linked-lists/>)
+- [leetcode 21: 排序链表的合并](<https://leetcode-cn.com/problems/merge-two-sorted-lists/>)
+- [leetcode 234: 回文链表](<https://leetcode-cn.com/problems/palindrome-linked-list/>)
+- [leetcode 237: 删除链表中的节点](<https://leetcode-cn.com/problems/delete-node-in-a-linked-list/>) 
+- [~~~leetcode 83: 删除排序链表中重复的节点~~~](<https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/>) ac
+- [leetcode 203: 移除链表元素](<https://leetcode-cn.com/problems/remove-linked-list-elements/submissions/>)                                              |                                                              |
 
 **3. Leetcode Medium**
 
-| [leetcode 92:反转链表](<https://leetcode-cn.com/problems/reverse-linked-list-ii/>) | [leetcode 141: 环形链表](<https://leetcode-cn.com/problems/linked-list-cycle/>) | [leetcode 142: 环形链表2](<https://leetcode-cn.com/problems/linked-list-cycle-ii/>) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+- [leetcode 92:反转链表](<https://leetcode-cn.com/problems/reverse-linked-list-ii/>) cur
+- [leetcode 141: 环形链表](<https://leetcode-cn.com/problems/linked-list-cycle/>) 
+- [leetcode 142: 环形链表2](<https://leetcode-cn.com/problems/linked-list-cycle-ii/>) 
 | [leetcode 86: 链表划分](<https://leetcode-cn.com/problems/partition-list/>) | [leetcode 138: 复制带随机指针的链表](<https://leetcode-cn.com/problems/copy-list-with-random-pointer/>) | [leetcode 2: 两数相加](<https://leetcode-cn.com/problems/add-two-numbers/>) |
 | [leetcode 148:排序链表](<https://leetcode-cn.com/problems/sort-list/>) | [leetcode 328: 奇偶链表](<https://leetcode-cn.com/problems/odd-even-linked-list/submissions/>) | [leetcode 445: 两数相加2](<https://leetcode-cn.com/problems/add-two-numbers-ii/>) |
 | [leetcode 82: 删除排序链表中的重复元素2](<https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/submissions/>) | [leetcode 24: 两两交换链表中的节点](<https://leetcode-cn.com/problems/swap-nodes-in-pairs/submissions/>) | [leetcode 147: 对链表进行插入排序](<https://leetcode-cn.com/problems/insertion-sort-list/>) |
@@ -51,9 +55,12 @@ leetcode、剑指offer、公司面试刷题集
 | [leetcode 283: 移动零](<https://leetcode-cn.com/problems/move-zeroes/>) | [leetcode 27: 移除元素](<https://leetcode-cn.com/problems/remove-element/>) | [leetcode 26:删除排序数组中的重复项](<https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/>) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [leetcode 88: 合并两个有序数组](<https://leetcode-cn.com/problems/merge-sorted-array/>) | [leetcode 167: 两数之和 2](<https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/>) | [leetcode 400: 第 N 个数](<https://leetcode-cn.com/problems/nth-digit/>) |
-| [leetcode 1: 两数之和](<https://leetcode-cn.com/problems/two-sum/>) | [leetcode 121: 买卖股票的最佳时机](<https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/>) | [leetcode 136: 只出现一次的数字](<https://leetcode-cn.com/problems/single-number/>) |
-| [leetcode 169: 求众数](<https://leetcode-cn.com/problems/majority-element/>) | [leetcode 448: 找到所有数组中消失的数字](<https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/>) | [leetcode 581: 最短无序连续子数组](<https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/>) |
-|                                                              |                                                              |                                                              |
+| [leetcode 1: 两数之和](<https://leetcode-cn.com/problems/two-sum/>) 
+- [leetcode 121: 买卖股票的最佳时机](<https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/>) dp 2次
+- [leetcode 136: 只出现一次的数字](<https://leetcode-cn.com/problems/single-number/>)
+- [leetcode 169: 求众数](<https://leetcode-cn.com/problems/majority-element/>) 
+- [leetcode 448: 找到所有数组中消失的数字](<https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/>) 
+- [leetcode 581: 最短无序连续子数组](<https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/>) 
 
 **3. Leetcode Medium**
 
@@ -217,10 +224,10 @@ leetcode、剑指offer、公司面试刷题集
 
 **2. Leetcode Easy**
 
-- [leetcode 704: 二分查找](<https://leetcode-cn.com/problems/binary-search/>) &nbsp;1
+- [~~~704: 二分查找~~~](<https://leetcode-cn.com/problems/binary-search/>) &nbsp;1
 
 **2. Leetcode Hard**
-- [4. 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) &nbsp;滴滴&nbsp;1
+- [4. 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) &nbsp;滴滴&nbsp;4
 
 
 
