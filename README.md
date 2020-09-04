@@ -17,13 +17,13 @@ leetcode、剑指offer、公司面试刷题集
 - [leetcode 21: 排序链表的合并](<https://leetcode-cn.com/problems/merge-two-sorted-lists/>)
 - [leetcode 234: 回文链表](<https://leetcode-cn.com/problems/palindrome-linked-list/>)
 - [leetcode 237: 删除链表中的节点](<https://leetcode-cn.com/problems/delete-node-in-a-linked-list/>) 
-- [~~~leetcode 83: 删除排序链表中重复的节点~~~](<https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/>) ac
+- [leetcode 83: 删除排序链表中重复的节点](<https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/>) ac
 - [leetcode 203: 移除链表元素](<https://leetcode-cn.com/problems/remove-linked-list-elements/submissions/>)                                              |                                                              |
+- [leetcode 141: 环形链表](<https://leetcode-cn.com/problems/linked-list-cycle/>) 
 
 **3. Leetcode Medium**
 
-- [leetcode 92:反转链表](<https://leetcode-cn.com/problems/reverse-linked-list-ii/>) cur
-- [leetcode 141: 环形链表](<https://leetcode-cn.com/problems/linked-list-cycle/>) 
+- [leetcode 92:反转链表](<https://leetcode-cn.com/problems/reverse-linked-list-ii/>) 
 - [leetcode 142: 环形链表2](<https://leetcode-cn.com/problems/linked-list-cycle-ii/>) 
 | [leetcode 86: 链表划分](<https://leetcode-cn.com/problems/partition-list/>) | [leetcode 138: 复制带随机指针的链表](<https://leetcode-cn.com/problems/copy-list-with-random-pointer/>) | [leetcode 2: 两数相加](<https://leetcode-cn.com/problems/add-two-numbers/>) |
 | [leetcode 148:排序链表](<https://leetcode-cn.com/problems/sort-list/>) | [leetcode 328: 奇偶链表](<https://leetcode-cn.com/problems/odd-even-linked-list/submissions/>) | [leetcode 445: 两数相加2](<https://leetcode-cn.com/problems/add-two-numbers-ii/>) |
