@@ -24,12 +24,12 @@ leetcode、剑指offer、公司面试刷题集
 **3. Leetcode Medium**
 
 - [leetcode 92:反转链表](<https://leetcode-cn.com/problems/reverse-linked-list-ii/>) 
-- [leetcode 142: 环形链表2](<https://leetcode-cn.com/problems/linked-list-cycle-ii/>) cur
+- [leetcode 142: 环形链表2](<https://leetcode-cn.com/problems/linked-list-cycle-ii/>) 
 - [leetcode 86: 链表划分](<https://leetcode-cn.com/problems/partition-list/>) 
 - [leetcode 138: 复制带随机指针的链表](<https://leetcode-cn.com/problems/copy-list-with-random-pointer/>) 
 - [leetcode 2: 两数相加](<https://leetcode-cn.com/problems/add-two-numbers/>)
-- [leetcode 148:排序链表](<https://leetcode-cn.com/problems/sort-list/>) 
-- [leetcode 328: 奇偶链表](<https://leetcode-cn.com/problems/odd-even-linked-list/submissions/>) 
+- [leetcode 148:排序链表](<https://leetcode-cn.com/problems/sort-list/>)
+- [leetcode 328: 奇偶链表](<https://leetcode-cn.com/problems/odd-even-linked-list/submissions/>)  cur
 - [leetcode 445: 两数相加2](<https://leetcode-cn.com/problems/add-two-numbers-ii/>) 
 - [leetcode 82: 删除排序链表中的重复元素2](<https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/submissions/>) 
 - [leetcode 24: 两两交换链表中的节点](<https://leetcode-cn.com/problems/swap-nodes-in-pairs/submissions/>) 
