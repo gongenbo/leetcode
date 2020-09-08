@@ -60,10 +60,13 @@ leetcode、剑指offer、公司面试刷题集
 
 **2. Leetcode Easy**
 
-| [leetcode 283: 移动零](<https://leetcode-cn.com/problems/move-zeroes/>) | [leetcode 27: 移除元素](<https://leetcode-cn.com/problems/remove-element/>) | [leetcode 26:删除排序数组中的重复项](<https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/>) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [leetcode 88: 合并两个有序数组](<https://leetcode-cn.com/problems/merge-sorted-array/>) | [leetcode 167: 两数之和 2](<https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/>) | [leetcode 400: 第 N 个数](<https://leetcode-cn.com/problems/nth-digit/>) |
-| [leetcode 1: 两数之和](<https://leetcode-cn.com/problems/two-sum/>) 
+- [leetcode 283: 移动零](<https://leetcode-cn.com/problems/move-zeroes/>) 
+- [~~~leetcode 27: 移除元素~~~](<https://leetcode-cn.com/problems/remove-element/>)  与283套路同
+- [leetcode 26:删除排序数组中的重复项](<https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/>)
+- [leetcode 88: 合并两个有序数组](<https://leetcode-cn.com/problems/merge-sorted-array/>) 
+- [~~leetcode 167: 两数之和 2~~](<https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/>) 
+- [leetcode 400: 第 N 个数](<https://leetcode-cn.com/problems/nth-digit/>) |
+- [leetcode 1: 两数之和](<https://leetcode-cn.com/problems/two-sum/>) 
 - [leetcode 121: 买卖股票的最佳时机](<https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/>) dp 2次
 - [leetcode 136: 只出现一次的数字](<https://leetcode-cn.com/problems/single-number/>)
 - [leetcode 169: 求众数](<https://leetcode-cn.com/problems/majority-element/>) 
