@@ -1,12 +1,12 @@
 <!-- GFM-TOC -->
 * [快速选择](#快速选择)
 * [堆](#堆)
-    * [215. Kth Element](#1-kth-element) medium
+    * [215. Kth Element](#215-kth-element) medium
 * [桶排序](#桶排序)
-    * [1. 出现频率最多的 k 个元素](#1-出现频率最多的-k-个元素)
-    * [2. 按照字符出现次数对字符串排序](#2-按照字符出现次数对字符串排序)
+    * [692. 出现频率最多的 k 个元素](#692-出现频率最多的-k-个元素) medium
+    * [451. 按照字符出现次数对字符串排序](#451-按照字符出现次数对字符串排序)  medium
 * [荷兰国旗问题](#荷兰国旗问题)
-    * [1. 按颜色进行排序](#1-按颜色进行排序)
+    * [75. 按颜色进行排序](#75-按颜色进行排序) medium
 <!-- GFM-TOC -->
 
 
@@ -208,7 +208,7 @@ void swap(vector<int>& nums, int i, int j) {
 ```
 # 桶排序
 
-## 1. 出现频率最多的 k 个元素
+## 692. 出现频率最多的 k 个元素
 
 347\. Top K Frequent Elements (Medium)
 
@@ -322,28 +322,19 @@ Output: [0,0,1,1,2,2]
 
 ```java
 public void sortColors(int[] nums) {
-    int zero = -1, one = 0, two = nums.length;
-    while (one < two) {
-        if (nums[one] == 0) {
-            swap(nums, ++zero, one++);
-        } else if (nums[one] == 2) {
-            swap(nums, --two, one);
-        } else {
-            ++one;
-        }
+    int p0 = 0; //0的右界
+    int p2 = nums.length-1; //2的左界
+    int cur = 0;
+    while(cur <= p2){
+        if(nums[cur] == 0) swap(nums, cur++, p0++);
+        else if(nums[cur] == 2) swap(nums, cur, p2--);//注意cur不能加
+        else if(nums[cur] == 1) cur++;
     }
 }
-
-private void swap(int[] nums, int i, int j) {
-    int t = nums[i];
-    nums[i] = nums[j];
-    nums[j] = t;
+public void swap(int[] nums, int i, int j){
+    if(i == j) return;
+    nums[i] = nums[i] ^ nums[j];
+    nums[j] = nums[i] ^ nums[j];
+    nums[i] = nums[i] ^ nums[j];
 }
 ```
-
-
-
-
-
-
-<div align="center"><img width="320px" src="https://cs-notes-1256109796.cos.ap-guangzhou.myqcloud.com/githubio/公众号二维码-2.png"></img></div>
