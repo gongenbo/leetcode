@@ -1,7 +1,7 @@
 <!-- GFM-TOC -->
 * [69. 求开方](#1-求开方) easy not ac
-* [2. 大于给定元素的最小元素](#2-大于给定元素的最小元素)
-* [3. 有序数组的 Single Element](#3-有序数组的-single-element)
+* [744. 大于给定元素的最小元素](#2-大于给定元素的最小元素) easy  ac
+* [540. 有序数组的 Single Element](#3-有序数组的-single-element) medium not ac
 * [4. 第一个错误的版本](#4-第一个错误的版本)
 * [5. 旋转数组的最小数字](#5-旋转数组的最小数字)
 * [6. 查找区间](#6-查找区间)
@@ -94,7 +94,7 @@ l   m   h
 
 当循环体退出时，不表示没有查找到 key，因此最后返回的结果不应该为 -1。为了验证有没有查找到，需要在调用端判断一下返回位置上的值和 key 是否相等。
 
-# 1. 求开方
+# 69. 求开方
 
 69\. Sqrt(x) (Easy)
 
@@ -134,7 +134,7 @@ public int mySqrt(int x) {
 }
 ```
 
-# 2. 大于给定元素的最小元素
+# 744. 大于给定元素的最小元素
 
 744\. Find Smallest Letter Greater Than Target (Easy)
 
@@ -170,7 +170,7 @@ public char nextGreatestLetter(char[] letters, char target) {
 }
 ```
 
-# 3. 有序数组的 Single Element
+# 540. 有序数组的 Single Element
 
 540\. Single Element in a Sorted Array (Medium)
 
