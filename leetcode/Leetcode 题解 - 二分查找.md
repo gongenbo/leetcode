@@ -2,9 +2,9 @@
 * [69. 求开方](#1-求开方) easy not ac
 * [744. 大于给定元素的最小元素](#2-大于给定元素的最小元素) easy  ac
 * [540. 有序数组的 Single Element](#3-有序数组的-single-element) medium not ac
-* [4. 第一个错误的版本](#4-第一个错误的版本)
-* [5. 旋转数组的最小数字](#5-旋转数组的最小数字)
-* [6. 查找区间](#6-查找区间)
+* [278. 第一个错误的版本](#4-第一个错误的版本) easy ac
+* [153. 旋转数组的最小数字](#5-旋转数组的最小数字)  medium not ac
+* [34. 查找区间](#6-查找区间)  medium not ac
 <!-- GFM-TOC -->
 
 
@@ -236,7 +236,7 @@ public int firstBadVersion(int n) {
 }
 ```
 
-# 5. 旋转数组的最小数字
+# 153. 旋转数组的最小数字
 
 153\. Find Minimum in Rotated Sorted Array (Medium)
 
