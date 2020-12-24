@@ -1,7 +1,7 @@
 <!-- GFM-TOC -->
 * [快速选择](#快速选择)
 * [堆](#堆)
-    * [215. Kth Element](#215-kth-element) medium
+    * [215. Kth Element](#215-kth-element) medium c++ 20201223
 * [桶排序](#桶排序)
     * [692. 出现频率最多的 k 个元素](#692-出现频率最多的-k-个元素) medium
     * [451. 按照字符出现次数对字符串排序](#451-按照字符出现次数对字符串排序)  medium
@@ -48,6 +48,28 @@ public int findKthLargest(int[] nums, int k) {
 }
 ```
 
+```c++
+#include <iostream>
+#include <vector>
+#include <unordered_map>
+using namespace std;
+class Sort {
+public:
+    vector<int> execute(vector<int>& nums, int target) {
+        sort(nums.begin(),nums.end());
+        for(int e: nums)
+            cout << e << " ";
+        cout << endl;
+    }
+};
+
+int main() {
+    vector<int> nums = {0, 4, 3, 1, 7, 11, 15, 6};
+    int target = 4;
+    Sort().execute(nums, target);
+    return 0;
+}
+```
 **堆**  ：时间复杂度 O(NlogK)，空间复杂度 O(K)。
 
 ```java
