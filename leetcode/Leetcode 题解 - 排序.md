@@ -1,9 +1,9 @@
 <!-- GFM-TOC -->
 * [快速选择](#快速选择)
 * [堆](#堆)
-    * [215. Kth Element](#215-kth-element) medium c++ 20201223
+    * [215. Kth Element](#215-kth-element) medium c++ 20201223 not ac
 * [桶排序](#桶排序)
-    * [692. 出现频率最多的 k 个元素](#692-出现频率最多的-k-个元素) medium
+    * [692. 出现频率最多的 k 个元素](#692-出现频率最多的-k-个元素) medium 
     * [451. 按照字符出现次数对字符串排序](#451-按照字符出现次数对字符串排序)  medium
 * [荷兰国旗问题](#荷兰国旗问题)
     * [75. 按颜色进行排序](#75-按颜色进行排序) medium
@@ -230,7 +230,7 @@ void swap(vector<int>& nums, int i, int j) {
 ```
 # 桶排序
 
-## 692. 出现频率最多的 k 个元素
+## 347. 出现频率最多的 k 个元素
 
 347\. Top K Frequent Elements (Medium)
 
