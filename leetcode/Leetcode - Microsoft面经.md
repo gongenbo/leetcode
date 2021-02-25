@@ -20,10 +20,10 @@
 |121. 买卖股票的最佳时机|3|https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock|not ac|
 |53. 最大子序和|3|https://leetcode-cn.com/problems/maximum-subarray|not ac|
 |450. 删除二叉搜索树中的节点|3|https://leetcode-cn.com/problems/delete-node-in-a-bst|not ac|
-|146. LRU缓存机制|3|https://leetcode-cn.com/problems/lru-cache|
-|22. 括号生成|3|https://leetcode-cn.com/problems/generate-parentheses|
-|543. 二叉树的直径|3|https://leetcode-cn.com/problems/diameter-of-binary-tree|
-|98. 验证二叉搜索树|3|https://leetcode-cn.com/problems/validate-binary-search-tree|
+|146. LRU缓存机制|3|https://leetcode-cn.com/problems/lru-cache|not ac|
+|22. 括号生成|3|https://leetcode-cn.com/problems/generate-parentheses|not ac|
+|543. 二叉树的直径|3|https://leetcode-cn.com/problems/diameter-of-binary-tree|not ac|
+|98. 验证二叉搜索树|3|https://leetcode-cn.com/problems/validate-binary-search-tree|not ac|
 |200. 岛屿数量|3|https://leetcode-cn.com/problems/number-of-islands|
 |415. 字符串相加|2|https://leetcode-cn.com/problems/add-strings|
 |151. 翻转字符串里的单词|2|https://leetcode-cn.com/problems/reverse-words-in-a-string|
