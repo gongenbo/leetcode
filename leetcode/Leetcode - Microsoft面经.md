@@ -24,11 +24,11 @@
 |22. 括号生成|3|https://leetcode-cn.com/problems/generate-parentheses|not ac|
 |543. 二叉树的直径|3|https://leetcode-cn.com/problems/diameter-of-binary-tree|not ac|
 |98. 验证二叉搜索树|3|https://leetcode-cn.com/problems/validate-binary-search-tree|not ac|
-|200. 岛屿数量|3|https://leetcode-cn.com/problems/number-of-islands|
-|415. 字符串相加|2|https://leetcode-cn.com/problems/add-strings|
-|151. 翻转字符串里的单词|2|https://leetcode-cn.com/problems/reverse-words-in-a-string|
-|69. x 的平方根|2|https://leetcode-cn.com/problems/sqrtx|
-|62. 不同路径|2|https://leetcode-cn.com/problems/unique-paths|
+|200. 岛屿数量|3|https://leetcode-cn.com/problems/number-of-islands|not ac|
+|415. 字符串相加|2|https://leetcode-cn.com/problems/add-strings|not ac|
+|151. 翻转字符串里的单词|2|https://leetcode-cn.com/problems/reverse-words-in-a-string|not ac|
+|69. x 的平方根|2|https://leetcode-cn.com/problems/sqrtx|not ac|
+|62. 不同路径|2|https://leetcode-cn.com/problems/unique-paths|not ac|
 |89. 格雷编码|2|https://leetcode-cn.com/problems/gray-code|
 |剑指 Offer 51. 数组中的逆序对|2|https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof|
 |110. 平衡二叉树|2|https://leetcode-cn.com/problems/balanced-binary-tree|
