@@ -35,11 +35,13 @@ while( !q.empty() ){
 vector<int> table(26, 0);
 ```
 ## 字符串
-### 1. 交换
+### 1. 长度
+str.size()
+### 2. 交换
 ```c++
 swap(s[left], s[right])
 ```
-### 2.转数组
+### 3.转数组
 ```c++
 for
 ```
