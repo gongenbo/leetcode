@@ -29,11 +29,27 @@ while( !q.empty() ){
 }
 ```
 ## 数组
-### 初始化
+### 1. 初始化
 新建数组,26个字母每个初始化为0
 ```c++
 vector<int> table(26, 0);
 ```
+### 2. vector.emplace_back()与push_back()区别
+emplace_back是c++11之后的，效率更高。
+
+```
+struct S{
+    int value;
+};
+
+std::vector<S> v;
+v.push_back({0}); //没问题
+v.emplace_back({0}); //编不过
+```
+emplace_back是模板函数，对于{0}它无法确定是啥东东。push_back不是模板函数，它会直接构造一个对应的对象拷过去。
+### 3. pop_back()
+弹出
+
 ## 字符串
 ### 1. 长度
 str.size()
