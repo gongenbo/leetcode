@@ -4,6 +4,20 @@
 string s="ngram";
 sort(s.begin(), s.end());
 ```
+```
+451
+class Solution {
+public:
+    string frequencySort(string s) {
+        unordered_map<char,int> mem;
+        for(auto c:s) mem[c]++;
+        sort(s.begin(),s.end(),[&mem](char a,char b){
+            if(mem[a]==mem[b]) return a>b;
+            return mem[a]>mem[b];});
+        return s;
+    }
+};
+```
 ### 优先队列 priority_queue
 它的模板声明带有三个参数，priority_queue<Type, Container, Functional>
 Type 为数据类型， Container 为保存数据的容器，Functional 为元素比较方式。
@@ -51,6 +65,8 @@ emplace_back是模板函数，对于{0}它无法确定是啥东东。push_back�
 弹出
 
 ## 字符串
+### 引入
+using namespace std;//导入后才能使用string
 ### 1. 长度
 str.size()
 ### 2. 交换
@@ -65,7 +81,7 @@ for
 ```
 s.find(s[i])
 ```
-## 集合
+## Map
 ```c++
 int longestPalindrome(string s) {
     unordered_map<char, int> count;
@@ -96,3 +112,14 @@ unordered_map<int,int>::iterator iter = record.find(target - nums[i]);
 if(iter != record.end() && iter->second != i)
     return {i, iter->second};
 ```
+## 集合
+### 引入
+```
+#include<set>
+```
+### 初始化
+```
+set<char> vowel{'a','e','i','o','u'};
+```
+### 是否包含count
+1 包含，0不包含
