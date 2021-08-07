@@ -81,37 +81,7 @@ for
 ```
 s.find(s[i])
 ```
-## Map
-```c++
-int longestPalindrome(string s) {
-    unordered_map<char, int> count;
-    int ans = 0;
-    for (char c : s)
-        ++count[c];
-    for (auto p : count) {
-        int v = p.second;
-        ans += v / 2 * 2;
-        if (v % 2 == 1 and ans % 2 == 0)
-            ++ans;
-    }
-    return ans;
-}
-```
-### 长度
-```c++
-map.size();
-```
-### 查找位置
-是否存在
-如果key存在，则find返回key对应的迭代器，如果key不存在，则find返回unordered_map::end。因此可以通过
-```c++
-map.find(key) == map.end()
-```
-```c++
-unordered_map<int,int>::iterator iter = record.find(target - nums[i]);
-if(iter != record.end() && iter->second != i)
-    return {i, iter->second};
-```
+
 ## 集合
 ### 引入
 ```
