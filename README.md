@@ -6,7 +6,7 @@ leetcode、剑指offer、公司面试刷题集
 - [剑指 Offer](codinginterviews/README.md)
 - [LeetCode](leetcode/README.md)
 - [algorithm](algorithm/README.md)
-- [笔试面试题库](code/README.md)
+- [笔试面试题库](company/README.md)
 
 # Reference
 - [labuladong算法小抄](https://github.com/labuladong/fucking-algorithm)
