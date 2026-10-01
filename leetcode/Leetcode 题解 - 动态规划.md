@@ -1242,6 +1242,8 @@ exection -> execution (insert 'u')
 
 题目描述：修改一个字符串成为另一个字符串，使得修改次数最少。一次修改操作包括：插入一个字符、删除一个字符、替换一个字符。
 
+word1、 word2都能增删改，6种，归纳为3种，word1增、改、word2增。
+从0到m或者到n，输出最后的dp[m][n]即为答案。
 ```java
 public int minDistance(String word1, String word2) {
     if (word1 == null || word2 == null) {
